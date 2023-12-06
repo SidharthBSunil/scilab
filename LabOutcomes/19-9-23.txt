@@ -1,0 +1,309 @@
+
+
+Startup execution:
+  loading initial environment
+
+Start IPCV 1.2 for Scilab 6.0
+Image Processing and Computer Vision Toolbox for Scilab
+Copyright (C) - 2017 - Tan Chin Luh (Trity Technologies)
+Find more information at http://scilabipcv.tritytech.com 
+	Load macros
+	Load dependencies
+	Load gateways
+	Load help
+	Load demos
+
+
+--> 2
+ ans  =
+
+   2.
+
+
+--> 2
+ ans  =
+
+   2.
+
+
+--> 2+5*7
+ ans  =
+
+   37.
+
+
+--> %pi
+ %pi  = 
+
+   3.1415927
+
+
+--> %inf
+ %inf  = 
+
+   Inf
+
+
+--> %e
+ %e  = 
+
+   2.7182818
+
+
+--> a=[2,1,1]
+ a  = 
+
+   2.   1.   1.
+
+
+--> 2>1
+ ans  =
+
+  T
+
+
+--> 1>2
+ ans  =
+
+  F
+
+
+--> a=[2 3 4;5 6 7]
+ a  = 
+
+   2.   3.   4.
+   5.   6.   7.
+
+
+--> a(2,1)
+ ans  =
+
+   5.
+
+
+--> a(2,:)
+ ans  =
+
+   5.   6.   7.
+
+
+--> a(:,2)
+ ans  =
+
+   3.
+   6.
+
+enter the first number5
+
+enter  the second number2
+
+
+ first number is greater
+
+
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+ its true
+
+		`					26-09-2023
+							----------
+ 
+--> x=2+3*%i
+ x  = 
+
+   2. + 3.i
+
+
+--> m=abs(x)
+ m  = 
+
+   3.6055513
+
+
+--> r=real(x)
+ r  = 
+
+   2.
+
+
+--> i=imag(x)
+ i  = 
+
+   3.
+
+
+--> w=complex(2,30)
+ w  = 
+
+   2. + 30.i
+
+
+--> x=sin(%pi/2)
+ x  = 
+
+   1.
+
+
+--> s=sinc(0)
+ s  = 
+
+   1.
+
+
+--> s=sinc(%pi)
+ s  = 
+
+   3.898D-17
+
+

@@ -1,0 +1,70 @@
+--> a[1 2 3 4]
+a[1 2 3 4]
+ ^^
+Error: syntax error, unexpected [, expecting end of file
+
+--> a(1 2 3 4)
+a(1 2 3 4)
+    ^^
+Error: syntax error, unexpected integer, expecting "," or )
+
+--> a=[1 2 3 4]
+ a  = 
+
+   1.   2.   3.   4.
+
+
+--> size(a)
+ ans  =
+
+   1.   4.
+
+
+--> a'
+ ans  =
+
+   1.
+   2.
+   3.
+   4.
+
+
+--> size9a')
+size9a')
+       ^^
+Error: syntax error, unexpected ), expecting end of file
+
+--> size(a')
+ ans  =
+
+   4.   1.
+
+
+--> b=[2+3*%PI,5+7*%i]
+
+Undefined variable: %PI
+
+--> b=[2+3*%i,5+7*%i]
+ b  = 
+
+   2. + 3.i   5. + 7.i
+
+
+--> size(b)
+ ans  =
+
+   1.   2.
+
+
+--> b'
+ ans  =
+
+   2. - 3.i
+   5. - 7.i
+
+
+--> size(b')
+ ans  =
+
+   2.   1.
+
